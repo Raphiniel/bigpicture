@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("fontawesome-all.min.css");
 
+/* LINE 2240 WE HAVE CHANGE OF BAACKGROUND PHOTOS */
 /*
 	Big Picture by HTML5 UP
 	html5up.net | @ajlkn
@@ -2244,7 +2245,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/intro.jpg");
+		background: url("images/overlay.png"), url("../../images/Me/IMG_E1237.JPG");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2254,7 +2255,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/one.jpg");
+		background: url("images/overlay.png"), url("../../images/Me/IMG_0739.JPG");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2263,7 +2264,7 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
+		background: url("images/overlay.png"), url("../../images/Me/IMG_E1237.JPG");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
